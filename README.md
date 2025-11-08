@@ -71,5 +71,5 @@ The final fitted parametric curve:
 
 **Desmos Parametric Equation (for reference)**: \left(t*\cos(0.5236)-e^{0.03\left|t\right|}\cdot\sin(0.3t)\sin(0.5236)\ +55,42+\ t*\sin(0.5236)+e^{0.03\left|t\right|}\cdot\sin(0.3t)\cos(0.5236)\right)
 <img width="1551" height="954" alt="image" src="https://github.com/user-attachments/assets/335d6bd8-7a75-4135-8f59-674232da86b0" />
-
+**Graph Link** : https://www.desmos.com/calculator/k1fw3hayau
 
