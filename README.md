@@ -46,6 +46,8 @@ The project uses a **gradient-based optimization** method inspired by deep learn
    - The fitted curve was plotted in red to visually confirm the accuracy of the fit.  
    - The final parameters were also validated through a parametric plot in Desmos.
 
+**Code implementation: flam.ipynb**
+
 ---
 
 ## 🧮 Final Results
